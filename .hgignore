@@ -1,0 +1,20 @@
+syntax: glob
+
+.eunit/*
+erl_crash.dump
+edoc-info
+*.beam
+*.boot
+*.css
+users/*.dat
+livings/*.dat
+*.html
+*.png
+*.script
+*.swp
+*.tar.gz
+*~
+
+plain.*
+
+rel/erlymud
